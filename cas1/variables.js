@@ -25,5 +25,6 @@ const zbir = a % b;
 
 console.log(zbir)
 
+
 // se vo navodnici e tekst, i dokolku se pravi matematicka operacija so tekst sekogash se dobiva tekst
 const number = '10'
